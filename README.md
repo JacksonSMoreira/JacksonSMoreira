@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🚀 Computer scientist passionate about technology 👩‍💻
+## 🚀 My name is Jackson 👩‍💻
 <div align="center">
   <a href="https://github.com/JacksonSMoreira">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsadoraFerrao&show_icons=true&theme=highcontrast&include_all_commits=true&title_color=pink&count_private=true"/>
@@ -23,17 +23,13 @@
   <img align="center" alt="JSM-terminal" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
   
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/perfil.png">
-</div> 
+  </div> 
  
   ##
 <div> 
   
-  <a href="https://www.instagram.com/isadora.ferrao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0000CD?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jackson-moreira-549a12266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0000CD?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
  
-  
   
 </div>
 
